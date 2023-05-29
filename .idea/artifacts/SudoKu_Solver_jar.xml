@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SudoKu Solver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SudoKu_Solver_jar</output-path>
+    <root id="archive" name="SudoKu Solver.jar">
+      <element id="module-output" name="SudoKu Solver" />
+      <element id="library" level="project" name="SudoKu Solver" />
+    </root>
+  </artifact>
+</component>
